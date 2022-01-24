@@ -1,0 +1,38 @@
+.navbar-brand {
+	float: left;
+}
+button {
+	float: right;
+}
+#phone {
+	display: block;
+}
+li {
+	width: 100%
+}
+#bs-example-navbar-collapse-1 {
+	width: 100%;
+	background-color: white;
+}
+#bs-example-navbar-collapse-1 .visible-xs {
+	width: 100%;
+	text-align: center;
+	font-size: 1.2em;
+}
+#Chicken, #Beef {
+	border-bottom: 1px solid lightgrey;
+}
+.container {
+	margin-bottom: 70px;
+	margin-top: 30px;
+}
+#menu {
+	background-color: #D0E5F5;
+	width: 80%;
+	margin:auto;
+	font-size: 1.2em;
+}
+.menu-title {
+	text-align: center;
+	font-size: 1.5em;
+}
